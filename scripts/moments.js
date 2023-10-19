@@ -87,5 +87,4 @@ const imageMessages = [
     shownImages = [];
   }
 
-
   

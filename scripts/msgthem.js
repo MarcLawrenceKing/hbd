@@ -29,7 +29,6 @@ function displayThemMessages() {
   // Add the message to the list of shown messages
   shownThemMessages.push(selectedThemMessage);
 }
-
 function resetThemMessages() {
   shownThemMessages = [];
 }

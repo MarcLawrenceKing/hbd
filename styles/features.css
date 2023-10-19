@@ -27,7 +27,6 @@
         top: 50%;
         transform: translate(-50%, -50%);
 }
-
 #random-image,
 #video-frame{
   max-width: 100%; /* Ensure the image does not exceed the container width */
