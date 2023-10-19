@@ -3,7 +3,7 @@ const myMessages = [
   'I love you Kukyyyyyy <333 ',
   'I want to be with you for a very long time ;)',
   'Thank you for everything na ginagawa mo para/dahil sakin hehe',
-  'Sana maging masaya for the most part ng iyong lifee',
+  'Sana maging masaya ka for the most part ng iyong lifee',
   'You deserve everything na gusto mo love (including me)',
   'You inspire me to be better at everything I do :D',
   'You make me happy palagi, mwa mwaaa',

@@ -106,9 +106,6 @@ background-size: 10%;
   height: 90px
 }
 @media (min-width:500px) {
-  body {
-      background-color: lightpink;
-  }
   .hbd{
     font-family: Verdana, sans-serif;
     text-align: center;
@@ -135,9 +132,6 @@ background-size: 10%;
   }
 
 @media (min-width:600px) {
-  body {
-      background-color: lightblue;
-  }
   .hbd{
     font-family: Verdana, sans-serif;
     text-align: center;
@@ -159,9 +153,6 @@ background-size: 10%;
   }
 
 @media (min-width: 650px) {
-  body {
-      background-color: lightgray;
-  }
   .hbd{
     font-family: Verdana, sans-serif;
     text-align: center;
@@ -182,9 +173,6 @@ background-size: 10%;
   }
 }
 @media (min-width: 705px) {
-  body {
-      background-color: lightpink;
-  }
   .hbd{
     font-family: Verdana, sans-serif;
     text-align: center;
@@ -206,9 +194,6 @@ background-size: 10%;
 }
 
 @media (min-width: 805px) {
-  body {
-      background-color: lightgreen;
-  }
   .hbd{
     font-family: Verdana, sans-serif;
     text-align: center;
@@ -226,9 +211,6 @@ background-size: 10%;
   }
 }
 @media (min-width: 905px) {
-  body {
-      background-color: lightseagreen;
-  }
   .hbd{
     font-family: Verdana, sans-serif;
     text-align: center;
@@ -238,18 +220,12 @@ background-size: 10%;
 }
 
 @media (min-width: 1180px) {
-  body {
-      background-color: rgb(68, 80, 214);
-  }
   .main {
     grid-template-columns: 1fr 1fr 1fr;
   }
 }
 
 @media (min-width: 1550px) {
-  body {
-      background-color: lightcyan;
-  }
   .hbd{
     font-family: Verdana, sans-serif;
     text-align: center;
