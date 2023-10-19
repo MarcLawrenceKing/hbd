@@ -1,17 +1,37 @@
 // Define an array of objects, each containing a video ID and a message
 const initialVideoList = [
   {
-      video: "Ev642LoVoCs",
-      message: "Message for Video 1"
+      video: "i3CJXdLlKJo",
+      message: "Ngiti mo lang sapat na, love"
   },
   {
-      video: "VPzT0n3VkTM",
-      message: "Message for Video 2"
+      video: "vTyJmM_nPxY",
+      message: "You gave the world to me"
   },
   {
-      video: "PQCi3lN_fNI",
-      message: "Message for Video 3"
+      video: "wICYiBu52O8",
+      message: "You made me love myself a little more"
   },
+  {
+    video: "AMRCx2kjv2A",
+    message: "There's something about your love that keeps me up"
+  }, 
+  {
+    video: "u4v32AbPGx4",
+    message: "Kung sino sino sino sino sino sino sino sino...."
+ },
+  {
+    video: "OMOyBhSwiI0",
+    message: "Eto yung music sa 1st myday ko na magkasama tau hehe"
+  },
+  {
+    video: "VOmIplFAGeg",
+    message: "Naega mandeun KUKYYY"
+},
+{
+    video: "7ItMbhjg1I8",
+    message: "Happy Valentines hehe"
+},
   // Add more video objects as needed
 ];
 

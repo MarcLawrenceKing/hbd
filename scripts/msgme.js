@@ -6,8 +6,10 @@ const myMessages = [
   'Sana maging masaya for the most part ng iyong lifee',
   'You deserve everything na gusto mo love (including me)',
   'You inspire me to be better at everything I do :D',
-  'You make me happy palagi, mwa mwa'
-
+  'You make me happy palagi, mwa mwaaa',
+  'Take care of yourself palagi loveee',
+  "I am the happiest when I'm with youu",
+  'Galingan mo sa studies palagi hehe'
   // Add more messages as needed
 ];
 
