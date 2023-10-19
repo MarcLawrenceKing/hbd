@@ -1,0 +1,48 @@
+.image-container,
+.video-container{
+  width: 300px; /* Set the width of the container */
+  height: 225px; /* Set the height of the container */
+  border: 3px solid black;
+  display: flex; /* Make the container a flex container */
+  justify-content: center; /* Center horizontally within the container */
+  align-items: center;
+  position: relative;
+  position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+}
+
+
+.message-container{
+  width: 300px; /* Set the width of the container */
+  height: 225px; /* Set the height of the container */
+  border: none;
+  display: flex; /* Make the container a flex container */
+  justify-content: center; /* Center horizontally within the container */
+  align-items: center;
+  position: relative;
+  position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+}
+
+#random-image,
+#video-frame{
+  max-width: 100%; /* Ensure the image does not exceed the container width */
+  max-height: 100%;
+}
+
+#moment-message,
+#video-message{
+  position: absolute;
+  top: 230px;
+  font-family: Verdana;
+}
+
+#my-message,
+#them-message{
+  position: absolute;
+  font-family: Verdana;
+}

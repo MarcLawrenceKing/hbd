@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website ni Kuky</title>
+    <link rel="icon" type="image/png" href="images/favicon/favicon.png">
+    <link rel="stylesheet" href="/styles/main.css">
+    <link rel="stylesheet" href="/styles/features.css">
+</head>
+<body>
+ <div class="header">
+  <img class="one-by-one" src="/images/1by1/kuky 1by1 1.jpeg">
+  <img class="one-by-one" src="/images/1by1/kuky 1by1 2.jpeg">
+  <img class="one-by-one" src="/images/1by1/kuky 1by1 3.jpeg">
+  <p class="hbd"> Happy Birthday Kuky! &lt;3</p>
+  <img class="one-by-one" src="/images/1by1/kuky 1by1 4.jpeg">
+  <img class="one-by-one" src="/images/1by1/kuky 1by1 5.jpeg">
+  <img class="one-by-one" src="/images/1by1/kuky 1by1 6.jpeg">
+  
+ </div>
+ <div class="main">
+  <div class="feature">
+    <div class="feature-text"> Favorite moments with you (everytime is)<br>
+        <button onclick="
+          displayRandomImage()
+          " class="click-me">Click Me</button>
+    </div>
+    <div class="image-container">
+      <img id="random-image" src="" alt="press click me" />
+      <p id="moment-message">Click the button to see a random image and message.</p>
+    </div>     
+  </div>
+  
+  <div class="feature">
+    <div class="feature-text">random message from me (using math.random)<br>
+        <button onclick="
+          displayMyMessages()
+          " class="click-me2">Click Me</button>
+    </div>
+    <div class="message-container">
+      <p id="my-message"> hello</p>
+    </div>
+  </div>
+
+  <div class="feature">
+    <div class="feature-text">random message from friends (using math.random)<br>
+        <button onclick="
+          displayThemMessages()
+          " class="click-me3">Click Me</button>
+    </div>
+    <div class="message-container">
+      <p id="them-message">hi</p>
+    </div>
+  </div>
+
+  <div class="feature">
+    <div class="feature-text">songs for kuky<br>
+        <button onclick="
+          generateRandomVideo()
+          " class="click-me4">Click Me</button>
+    </div>
+    <div class="video-container">     
+      <div id="video-frame"></div>
+      <p id="video-message"> hello</p>
+  </div>
+  </div>
+ </div>
+
+
+ <div class="footer">
+  <img class="one-by-one" src="/images/1by1/kuky 1by1 7.jpeg">
+  <img class="one-by-one" src="/images/1by1/kuky 1by1 8.jpeg">
+  <img class="one-by-one" src="/images/1by1/kuky 1by1 9.jpeg">
+  <img class="one-by-one" src="/images/1by1/kuky 1by1 10.jpeg">
+  <img class="one-by-one" src="/images/1by1/kuky 1by1 11.jpeg">
+  <img class="one-by-one" src="/images/1by1/kuky 1by1 12.jpeg">
+  <img class="one-by-one" src="/images/1by1/kuky 1by1 13.jpeg">
+  <img class="one-by-one" src="/images/1by1/kuky 1by1 14.jpeg">
+  <img class="one-by-one" src="/images/1by1/kuky 1by1 15.jpeg">
+ </div>
+
+  <script src="/scripts/moments.js"></script>
+  <script src="/scripts/msgme.js"></script>
+  <script src="/scripts/msgthem.js"></script>
+  <script src="/scripts/songs.js"></script>
+</body>
+</html>
