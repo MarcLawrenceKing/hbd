@@ -34,7 +34,7 @@ const themMessages = [
   "Yshen: Hampiiee Birthday Kukita, wala na ako gaano madabi kasi nasabi ko naman na lahat. Pero always remember na andito lang ako palagi to support and comfort you along the way. Hindi man tayo lagi nagkakausap pero one thing for sure ung bond is kasing tibay ng mukha mo eme." ,
   
   "Yshen(1): Mahal na mahal kita teh kahit hindi mo ko mabigyan ng oras kimmi. Aral ka ng mabuti teh tama na ang drama matanda ka na kaya mo na yan. Ano pa ba 🤔 nawa'y magkita na tayo please lang kasi same lang tayo ng campus like duh. Ayun lang naman Happy Birthday sa pinakamaganda kong Habibi maaga ka man humarot pero Labyu saur much. Muwaps"
-  // Add more messages as needed
+  //Add more messages as needed
 ];
 
 let shownThemMessages = [];
