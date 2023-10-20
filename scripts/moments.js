@@ -1,62 +1,70 @@
 const imageMessages = [
   {
       imageUrl: 'images/moments/12-03-22.jpg',
-      message: 'first meet natin, tnx god naging cm8 ko si carl :>',
+      message: 'first meet natin, tnx god naging cm8 ko si carl :>'
   },
   {
       imageUrl: 'images/moments/12-19-22.jpg',
-      message: 'first time ko bumuhat ng tao nang paganon, parang nag buhat lang ako ng unan eh',
+      message: 'first time ko bumuhat ng tao nang paganon, parang nag buhat lang ako ng unan eh'
   },
   {
       imageUrl: 'images/moments/02-27-23.jpg',
-      message: 'wag ka nang mawaaaaalaa~',
+      message: 'wag ka nang mawaaaaalaa~'
   },
   {
     imageUrl: 'images/moments/04-26-23.jpg',
-    message: 'first date hehe. wala tayong pic pero masaya :>',
+    message: 'first date hehe. wala tayong pic pero masaya :>'
   },
   {
     imageUrl: 'images/moments/04-30-23.jpg',
-    message: 'cute natin dito :>',
+    message: 'cute natin dito :>'
   },
   {
     imageUrl: 'images/moments/05-16-23.jpg',
-    message: 'sorry carl T__T',
+    message: 'sorry carl T__T'
   },
   {
     imageUrl: 'images/moments/05-29-23.jpg',
-    message: 'eto yung binilad mo ako haha (oo na kasalanan ko na)',
+    message: 'eto yung binilad mo ako haha (oo na kasalanan ko na)'
   },
   {
     imageUrl: 'images/moments/07-03-23.jpg',
-    message: 'bas2s',
+    message: 'bas2s'
   },
   {
     imageUrl: 'images/moments/07-10-23.jpg',
-    message: 'tired ang lalovee',
+    message: 'tired ang lalovee'
   },
   {
     imageUrl: 'images/moments/07-11-23.jpg',
-    message: 'cutie ng reactions mooo',
+    message: 'cutie ng reactions mooo'
   },
   {
     imageUrl: 'images/moments/07-15-23.jpg',
-    message: 'hehe hilo hilo ako ne2 nung kinabukasan (personal record ko)',
+    message: 'hehe hilo hilo ako ne2 nung kinabukasan (personal record ko)'
   },
   {
     imageUrl: 'images/moments/07-20-23.jpg',
-    message: 'nakaka inlove yung ngiti eh',
+    message: 'nakaka inlove yung ngiti eh'
   },
   {
     imageUrl: 'images/moments/09-04-23.jpg',
-    message: 'fave pose mo XD',
+    message: 'fave pose mo XD'
   },{
     imageUrl: 'images/moments/09-27-23.jpg',
-    message: 'eto makikipag break tapos kinabukasan makikipagdate (best motmot) :v',
+    message: 'eto makikipag break tapos kinabukasan makikipagdate (best motmot) :v'
   },
   {
     imageUrl: 'images/moments/10-02-23.jpg',
-    message: 'gagalet pero pose pa rin >_<',
+    message: 'gagalet pero pose pa rin >_<'
+  },
+  {
+    imageUrl: 'images/moments/10-17-23.jpg',
+    message: 'thank you sa paghatid always loveee hehe'
+  },
+  {
+    imageUrl: 'images/moments/10-20-23.jpg',
+    message: 'nakakatuwa kasi kahit bukas pa eh, best birthday na agad this year para sayo :))))'
   }];
 
   let shownImages = [];

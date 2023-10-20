@@ -9,7 +9,9 @@ const myMessages = [
   'You make me happy palagi, mwa mwaaa',
   'Take care of yourself palagi loveee',
   "I am the happiest when I'm with youu",
-  'Galingan mo sa studies palagi hehe'
+  'Galingan mo sa studies palagi hehe',
+  "I'm so lucky to be given a chance to know you better hehehe",
+  'Please lagi ka magsasabi kapag may problema ka, dami mong bffs ehh, mamimili ka nalang hehe (sakin sana flz)'
   // Add more messages as needed
 ];
 
