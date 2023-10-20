@@ -33,7 +33,11 @@ const themMessages = [
 
   "Yshen: Hampiiee Birthday Kukita, wala na ako gaano madabi kasi nasabi ko naman na lahat. Pero always remember na andito lang ako palagi to support and comfort you along the way. Hindi man tayo lagi nagkakausap pero one thing for sure ung bond is kasing tibay ng mukha mo eme." ,
   
-  "Yshen(1): Mahal na mahal kita teh kahit hindi mo ko mabigyan ng oras kimmi. Aral ka ng mabuti teh tama na ang drama matanda ka na kaya mo na yan. Ano pa ba 🤔 nawa'y magkita na tayo please lang kasi same lang tayo ng campus like duh. Ayun lang naman Happy Birthday sa pinakamaganda kong Habibi maaga ka man humarot pero Labyu saur much. Muwaps"
+  "Yshen(1): Mahal na mahal kita teh kahit hindi mo ko mabigyan ng oras kimmi. Aral ka ng mabuti teh tama na ang drama matanda ka na kaya mo na yan. Ano pa ba 🤔 nawa'y magkita na tayo please lang kasi same lang tayo ng campus like duh. Ayun lang naman Happy Birthday sa pinakamaganda kong Habibi maaga ka man humarot pero Labyu saur much. Muwaps",
+  
+  "Nica: (Salamat sa liwanag mo, muling magkakakulay ang pasko) Pero bago magpasko, tatanda muna ng isang taon ang aming bunso. HAPPY 19TH BIRTHDAY KUKITAAA!!! Nakakatuwa kasi dati inaanticipate pa lang natin ung college life pero look at you now huhu you're a city girl na and I'm really happy that you're living your life beyond Imus.",
+  
+  "Nica(1): Wag mo pababayaan sarili mo dyan ah tatampalin kita if gagawin mo yan, need pa natin mag reunion... Awe namimiss tuloy kita... Tara MOA. Anyways, keep up the good work sa collegeeeee so proud of you so muchhhh. Don't let anyone or anything distract you from finishing your degree and having your dream career, tatampalin ko din kung sino man makakapag distract sayo. I wish you all the bestest Kukyyyy. I love you! Enjoy your day to the fullest, Happiest Birthday our bibi gurl mwahhhhh."
   //Add more messages as needed
 ];
 
